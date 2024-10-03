@@ -1,0 +1,44 @@
+{
+    "ActionGroup": {
+        "location": "Location",
+        "movingTo": "Moving to", 
+        "regenarateTrain": "Regenerate Train",
+        "sendToDepot": "Send to Depot",
+        "sendToStation": "Send to Station" 
+    }, 
+    "TrainMonitor": {
+        "depot": "DEPOT",
+        "station": "STATION",
+        "railway": "RAILWAY"
+    },
+    "TrainCar": {
+        "locomotive": "Locomotive",
+        "mailWagon" : "Mail Car",
+        "diningWagon": "Dining Car",
+        "firstClassWagon": "1st Class Car",
+        "secondClassWagon": "2nd Class Car"
+    },
+    "Location": {
+        "depot": "depot",
+        "station": "station",
+        "railway": "railway",
+        "N/A": "N/A" 
+    },
+    "ConfirmationModal":{
+        "header": "Dispatch train",
+        "text": "Do you really want to dispatch the train?",
+        "cancel": "cancel",
+        "confirm": "confirm"
+    },
+    "AddTrainModal": {
+        "header": "Create new train",
+        "codeError": "train code already exists...", 
+        "trainCode": "train code",
+        "maximumPublicCars": "maximum public cars",
+        "cancel": "cancel",
+        "confirm": "confirm"
+    }, 
+    "AddTrainButton": {
+        "text": "create new train"
+    }
+}

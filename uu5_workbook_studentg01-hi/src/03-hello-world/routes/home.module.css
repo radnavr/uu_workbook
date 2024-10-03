@@ -1,0 +1,14 @@
+
+.cubeContainer {
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    width:fit-content;
+}
+.pageContentContainer {
+    margin: 20px
+}
+
+.row {
+    display: flex;
+}

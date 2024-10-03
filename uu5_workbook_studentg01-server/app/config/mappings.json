@@ -1,0 +1,91 @@
+{
+  "{vendor}-{uuApp}-{uuSubApp}": {
+    "useCaseMap": {
+      "sys/uuAppWorkspace/init": {
+        "realization": "api/controllers/WorkbookLecturerController.init",
+        "httpMethod": "POST",
+        "type": "CMD"
+      },
+      "defaultUve": {
+        "realization": "index.html",
+        "httpMethod": "GET",
+        "type": "UVE"
+      },
+      "tutorial/hello-world": {
+        "realization": "03-hello-world/index.html",
+        "httpMethod": "GET",
+        "type": "UVE"
+      },
+      "tutorial/component": {
+        "realization": "04-component/index.html",
+        "httpMethod": "GET",
+        "type": "UVE"
+      },
+      "tutorial/properties": {
+        "realization": "05-properties/index.html",
+        "httpMethod": "GET",
+        "type": "UVE"
+      },
+      "tutorial/state": {
+        "realization": "06-state/index.html",
+        "httpMethod": "GET",
+        "type": "UVE"
+      },
+      "tutorial/route": {
+        "realization": "07-route/index.html",
+        "httpMethod": "GET",
+        "type": "UVE"
+      },
+      "tutorial/effect": {
+        "realization": "08-effect/index.html",
+        "httpMethod": "GET",
+        "type": "UVE"
+      },
+      "tutorial/cascading-styles": {
+        "realization": "09-cascading-styles/index.html",
+        "httpMethod": "GET",
+        "type": "UVE"
+      },
+      "tutorial/server-calls": {
+        "realization": "10-server-calls/index.html",
+        "httpMethod": "GET",
+        "type": "UVE"
+      },
+      "tutorial/context": {
+        "realization": "11-context/index.html",
+        "httpMethod": "GET",
+        "type": "UVE"
+      },
+      "tutorial/multilingualism": {
+        "realization": "13-multilingualism/index.html",
+        "httpMethod": "GET",
+        "type": "UVE"
+      },
+      "tutorial/modal": {
+        "realization": "14-modal/index.html",
+        "httpMethod": "GET",
+        "type": "UVE"
+      },
+      "tutorial/forms": {
+        "realization": "15-forms/index.html",
+        "httpMethod": "GET",
+        "type": "UVE"
+      },
+      "tutorial/tiles": {
+        "realization": "16-tiles/index.html",
+        "httpMethod": "GET",
+        "type": "UVE"
+      },
+      "tutorial/responsivity": {
+        "realization": "17-responsivity/index.html",
+        "httpMethod": "GET",
+        "type": "UVE"
+      },
+      "sys/uuAppWorkspace/initUve": {
+        "realization": "index.html",
+        "httpMethod": "GET",
+        "type": "UVE"
+      }
+    }
+  }
+}

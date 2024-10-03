@@ -1,0 +1,230 @@
+{
+  "itemList": [
+    {
+      "type": "standard",
+      "priority": 2,
+
+      "desc": {
+        "cs": "Dnešní situace na trhu očekává od IT služeb vysokou spolehlivost, flexibilitu a nákladovou efektivitu. Podniky mají širokou škálu možností při výběru IT technologií, metodik, přístupů a procesů, ale se stále rostoucím tlakem na rychlost a konfigurovatelnost služeb se často stává, že původně vybrané a používané technologie již tyto požadavky nesplňují. Proto se Slovenská spořitelna jako profesionální a moderní instituce rozhodla provést audit infrastruktury ve spolupráci se společností Unicorn.",
+        "en": "Today's market situation expects high reliability, flexibility and cost-effectiveness from IT services. Companies have a wide range of options in the choice of IT technologies, methodologies, approaches and processes, but with the ever-increasing pressure for speed and configurability of services, it is often the case that the originally selected and used technologies no longer meet these requirements. That is why Slovenská sporiteľňa, as a professional and modern institution, decided to carry out an infrastructure audit in cooperation with Unicorn.",
+        "sk": "Dnešná situácia na trhu očakáva od IT služieb vysokú spoľahlivosť, flexibilitu a finančnú efektivitu. Podniky majú široké možnosti pri výbere IT technológií, metodológie, prístupov a procesov avšak pri stále rastúcom tlaku na rýchlosť a konfigurovateľnosť služieb sa často krát stáva, že pôvodne vybrané a používané technológie už tieto požiadavky nespĺňajú. Aj preto sa Slovenská sporiteľňa, ako profesionálna a moderná inštitúcia, rozhodla realizovať audit infraštruktúry v spolupráci s Unicorn."
+      },
+      "datetimeFrom": "2023-11-28T23:00:00.000Z",
+      "datetimeTo": "2023-12-27T22:59:00.000Z",
+      "header": {
+        "cs": "Úspěšně jsme ukončili audit infrastruktury pro Slovenskou spořitelnu",
+        "en": "We successfully finished the infrastructure audit for Slovenská sporiteľňa",
+        "sk": "Úspešne sme ukončili audit infraštruktúry pre Slovenskú sporiteľňu"
+      },
+      "languages": [
+        "en",
+        "cs",
+        "sk"
+      ],
+      "authorUuIdentity": "1558-1",
+      "authorName": "Miriam Selecká Mattová",
+      "originId": "6564b057d02859002c5e9198",
+      "originBaseUri": "https://uuappg01-eu-w-1.plus4u.net/uu-newskit-hubg01/197270b8d2954ca496abd322a3c06684",
+      "awid": "f0b9cbe9606a4ac0b8b97298b9062ffb",
+      "creationDatetime": "2023-11-29T10:16:54.529Z",
+      "state": "published",
+      "sys": {
+        "cts": "2023-11-29T10:16:54.529Z",
+        "mts": "2023-11-29T10:16:57.866Z",
+        "rev": 2
+      },
+      "artifactId": "65670f96bf8713004212d447",
+      "mainImage": "c8b473adcc9386a27d127b17b739ed61",
+      "sectionList": [
+        "65670f96d02859002c61160f",
+        "65670f96d02859002c611610",
+        "65670f96d02859002c611611",
+        "65670f96d02859002c611612",
+        "65670f96d02859002c611613",
+        "65670f96d02859002c611614",
+        "65670f96d02859002c611615",
+        "65670f96d02859002c611616",
+        "65670f96d02859002c611617"
+      ],
+      "releaseDatetime": "2023-11-29T10:16:57.866Z",
+      "id": "65670f96d02859002c61160d"
+    },
+    {
+      "header": {
+        "cs": "Vytváříme chytrá a udržitelná řešení",
+        "en": "We create smart and sustainable solutions",
+        "sk": "Vytvárame inteligentné a udržateľné riešenia"
+      },
+      "priority": 2,
+      "datetimeFrom": "2023-11-28T23:00:00.000Z",
+      "datetimeTo": "2024-02-26T22:59:00.000Z",
+      "languages": [
+        "cs",
+        "en",
+        "sk"
+      ],
+      "type": "standard",
+      "desc": {
+        "cs": "Víte, že v Unicornu vytváříme chytrá a udržitelná řešení? Náš software pomáhá efektivnímu a šetrnému zacházení s přírodními zdroji a ohleduplnému chování k životnímu prostředí. Jak více přispíváme k udržitelnosti?",
+        "en": "Did you know that at Unicorn we create smart and sustainable solutions? Our software helps you to manage natural resources efficiently and in an environmentally friendly way. How do we contribute more to sustainability?",
+        "sk": "Vedeli ste, že v spoločnosti Unicorn vytvárame inteligentné a udržateľné riešenia? Náš softvér vám pomôže efektívne a ekologicky spravovať prírodné zdroje. Ako viac prispievame k udržateľnosti?"
+      },
+      "authorUuIdentity": "23-9970-1",
+      "authorName": "Kristýna Ryndová",
+      "originId": "655b0aa4ed30a1002b44da0e",
+      "originBaseUri": "https://uuappg01-eu-w-1.plus4u.net/uu-newskit-hubg01/dddccc852eb94e52bc5cd1acff35430a",
+      "awid": "f0b9cbe9606a4ac0b8b97298b9062ffb",
+      "creationDatetime": "2023-11-29T13:44:26.839Z",
+      "state": "published",
+      "sys": {
+        "cts": "2023-11-29T13:44:26.839Z",
+        "mts": "2023-11-29T13:44:29.716Z",
+        "rev": 2
+      },
+      "artifactId": "6567403aea86ad0042514b10",
+      "mainImage": "2184a984fd81316c7bd1f62e3887782c",
+      "sectionList": [
+        "6567403aec5c0b002c4365ca",
+        "6567403aec5c0b002c4365cb",
+        "6567403aec5c0b002c4365cc",
+        "6567403aec5c0b002c4365cd",
+        "6567403aec5c0b002c4365ce"
+      ],
+      "releaseDatetime": "2023-11-29T13:44:29.716Z",
+      "id": "6567403aec5c0b002c4365c8"
+    },
+    {
+      "header": {
+        "cs": "Více dat pro lepší rozhodnutí! Jaké novinky najdete v Lancelot Hub?",
+        "en": "More data for better decisions! What new features can you find in Lancelot Hub?"
+      },
+      "priority": 2,
+      "datetimeFrom": "2023-11-28T23:00:00.000Z",
+      "datetimeTo": "2024-05-31T21:59:00.000Z",
+      "languages": [
+        "cs",
+        "en"
+      ],
+      "type": "standard",
+      "desc": {
+        "cs": "V rámci neustálého vylepšování naší služby Lancelot Hub jsme rozšířili datovou sadu a přidali změny ve zveřejňování výsledků obchodování denního trhu podpůrných služeb. Přečtěte si naší novinku, kde se dozvíte, co všechno je v Lancelot Hub nového!",
+        "en": "As part of the ongoing enhancements to our Lancelot Hub service, we have expanded the dataset and added changes to the disclosure of trading results for the daily ancillary service market. Read our news to find out what's new in Lancelot Hub!"
+      },
+      "authorUuIdentity": "8614-1351-1",
+      "authorName": "Eduard Palovchyk",
+      "originId": "6543a010ed30a1002b33369a",
+      "originBaseUri": "https://uuappg01-eu-w-1.plus4u.net/uu-newskit-hubg01/8296b0ca8a36447c81fd94ed31640139",
+      "awid": "f0b9cbe9606a4ac0b8b97298b9062ffb",
+      "creationDatetime": "2023-11-07T13:59:11.981Z",
+      "state": "published",
+      "sys": {
+        "cts": "2023-11-07T13:59:11.981Z",
+        "mts": "2023-11-24T09:02:06.960Z",
+        "rev": 3
+      },
+      "artifactId": "654a42b081c7a5004241d22b",
+      "mainImage": "a4cd1a9831ca2306076671b37a9d3c90",
+      "sectionList": [
+        "654a42afed30a1002b38a2d4",
+        "654a42afed30a1002b38a2d5",
+        "654a42b0ed30a1002b38a2d6"
+      ],
+      "releaseDatetime": "2023-11-07T13:59:16.668Z",
+      "id": "654a42afed30a1002b38a2d2"
+    },
+    {
+      "type": "link",
+      "priority": 2,
+      "link": "https://unicornuniversity.net/unicorn-university-open-electromobility?utm_source=webkit_all&utm_medium=news&utm_campaign=Open_11_23",
+      "desc": {
+        "cs": "Jubilejní 10. ročník online konference Unicorn University Open s názvem \\\"Electromobility: The Future Is Now\\\" proběhl 24. listopadu. Online konference nabídla pohled na elektromobilitu z různých úhlů díky vystoupení špičkových expertů jak z Česka, tak i ze zahraničí. Přední osobnosti norského Osla a švédského Göteborgu sdíleli své zkušenosti jako globální lídři v oblasti elektromobility.",
+        "en": "The 10th anniversary edition of the Unicorn University Open online conference \\\"Electromobility: the Future Is Now\\\" took place on 24 November. The online conference offered a look at electromobility from different angles thanks to presentations by top experts from both the Czech Republic and abroad. Leading figures from Oslo, Norway and Gothenburg, Sweden shared their experiences as global leaders in the field of electromobility."
+      },
+      "datetimeFrom": "2023-11-27T23:00:00.602Z",
+      "datetimeTo": "2023-12-12T22:59:59.602Z",
+      "header": {
+        "cs": "Unicorn University Open tentokrát na téma elektromobility",
+        "en": "Unicorn University Open this time on the topic of electromobility"
+      },
+      "languages": [
+        "en",
+        "cs"
+      ],
+      "authorUuIdentity": "22-7298-1",
+      "authorName": "Martina Benešová",
+      "originId": "65660061d02859002c602686",
+      "originBaseUri": "https://uuappg01-eu-w-1.plus4u.net/uu-newskit-hubg01/4d24f96821d940f8869e061740ef6d84",
+      "awid": "f0b9cbe9606a4ac0b8b97298b9062ffb",
+      "creationDatetime": "2023-11-28T15:03:48.348Z",
+      "state": "published",
+      "sys": {
+        "cts": "2023-11-28T15:03:48.348Z",
+        "mts": "2023-11-28T15:03:49.404Z",
+        "rev": 2
+      },
+      "artifactId": "65660154dbdc97004269421a",
+      "mainImage": "f0c5b1fddd5ceefcd81593f8089852f7",
+      "sectionList": [
+        "65660154d02859002c6028a1"
+      ],
+      "releaseDatetime": "2023-11-28T15:03:49.404Z",
+      "id": "65660154d02859002c60289f"
+    },
+    {
+      "header": {
+        "cs": "Inovace ve finančnictví: AI zpracovává data klientů",
+        "en": "Innovation in finance: AI processes client data",
+        "sk": "Inovácia vo finančníctve: AI spracováva dáta klientov"
+      },
+      "priority": 2,
+      "datetimeFrom": "2023-11-27T08:00:00.000Z",
+      "datetimeTo": "2024-02-29T22:59:00.000Z",
+      "languages": [
+        "en",
+        "cs",
+        "sk"
+      ],
+      "type": "standard",
+      "desc": {
+        "cs": "Umělá inteligence (AI), zejména pak ChatGPT, je aktuální téma. Pracovníci - jednotlivci, kteří využívají AI, mají lepší výsledky. Jsou rychlejší, získají více inspirace nebo informací. Jak jsou na tom firmy/společnosti? Jak ChatGPT technologii začlenit do inovativních produktů pro klienty nebo využít k podpoře vlastního provozu? Kdy banky a pojišťovny zvýší svou produktivitu, tedy místo najímání lidí zapojí AI roboty/AI zaměstnance?",
+        "en": "Artificial Intelligence (AI), especially ChatGPT, is a current topic. Individuals who use AI, such as employees, achieve better results. They are faster, gain more inspiration or information. How are companies doing? How to integrate ChatGPT technology into innovative products for clients or use it to support your operations? When will banks and insurance companies increase their productivity, i.e., use AI robots/AI employees instead of hiring people?"
+      },
+      "authorUuIdentity": "3896-3804-1",
+      "authorName": "Petra Brabcová",
+      "originId": "655c96aea61573002b048ec5",
+      "originBaseUri": "https://uuappg01-eu-w-1.plus4u.net/uu-newskit-hubg01/617d6297655f4effaffb3f97115ada33",
+      "awid": "f0b9cbe9606a4ac0b8b97298b9062ffb",
+      "creationDatetime": "2023-11-28T11:23:14.859Z",
+      "state": "published",
+      "sys": {
+        "cts": "2023-11-28T11:23:14.859Z",
+        "mts": "2023-11-28T11:23:17.830Z",
+        "rev": 2
+      },
+      "artifactId": "6565cda349e6bb00420bc8ed",
+      "mainImage": "db5d75ff14fc4abe078db5d4c9f4c884",
+      "sectionList": [
+        "6565cda2ec5c0b002c419372",
+        "6565cda2ec5c0b002c419373",
+        "6565cda2ec5c0b002c419374",
+        "6565cda2ec5c0b002c419375",
+        "6565cda2ec5c0b002c419376",
+        "6565cda2ec5c0b002c419377",
+        "6565cda2ec5c0b002c419378",
+        "6565cda2ec5c0b002c419379",
+        "6565cda2ec5c0b002c41937a",
+        "6565cda2ec5c0b002c41937b",
+        "6565cda2ec5c0b002c41937c",
+        "6565cda2ec5c0b002c41937d"
+      ],
+      "releaseDatetime": "2023-11-28T11:23:17.830Z",
+      "id": "6565cda2ec5c0b002c419370"
+    }
+  ],
+  "pageInfo": {
+    "pageIndex": 0,
+    "pageSize": 1000,
+    "total": 5
+  },
+  "uuAppErrorMap": {}
+}

@@ -1,0 +1,46 @@
+{
+    "ActionGroup": {
+        "location": "Lokace",
+        "movingTo": "Jede do", 
+        "regenarateTrain": "Nový vlak",
+        "sendToDepot": "Poslat do depa",
+        "sendToStation": "Poslat do stanice" 
+    }, 
+    "TrainMonitor": {
+        "depot": "DEPO",
+        "station": "STANICE",
+        "railway": "DRÁHA"
+    },
+    "TrainCar": {
+        "locomotive": "Lokomotiva",
+        "mailWagon" : "Poštovní vůz",
+        "diningWagon": "Jídelní vůz",
+        "firstClassWagon": "I. třída",
+        "secondClassWagon": "II. třída"
+    },
+    "Location": {
+        "depot": "depo",
+        "station": "stanice",
+        "railway": "dráha",
+        "N/A": "N/A" 
+    },
+    "ConfirmationModal":{
+        "header": "Vypravit vlak",
+        "text": "Opravdu chcete vypravit vlak?",
+        "cancel": "zrušit",
+        "confirm": "potvrdit"
+    },
+    "AddTrainModal": {
+        "header": "Vytvořit nový vlak",
+        "codeError": "tento kód vlaku již existuje", 
+        "trainCode": "kód vlaku",
+        "maximumPublicCars": "maximum veřejných vozů",
+        "cancel": "zrušit",
+        "confirm": "potvrdit"
+    }, 
+    "AddTrainButton": {
+        "text": "vytvořit nový vlak"
+    }
+
+
+}

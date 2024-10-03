@@ -1,0 +1,17 @@
+{
+  "product": "uu_uu5_workbook_studentg01",
+  "version": "0.1.0",
+  "license": "License Commercial",
+  "description": {
+    "en": "",
+    "cs": ""
+  },
+  "devkit": {
+    "development": {
+      "appBoxLocationUri": "----- VALUE REQUIRED -----",
+      "appDeploymentUri": null
+    }
+  },
+  "uu5_workbook_studentg01-hi": {},
+  "uu5_workbook_studentg01-server": {}
+}
